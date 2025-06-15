@@ -121,7 +121,7 @@ const projectsData = [{
         description: 'a dropdown menu using React.js along with HTML, CSS, and JavaScript. The dropdown menu is a common UI component that allows users to choose one option from a list. ',
         image: '/projects/dashboard.jpg',
         github: 'https://github.com/Mr-aj33t/React-Dropdown-menu.git',
-        demo: 'https://github.com/Mr-aj33t/React-Dropdown-menu.git'
+        demo: 'https://todo-task-4q4m.onrender.com/'
     },
 
     {
@@ -129,7 +129,7 @@ const projectsData = [{
         description: 'SuperHero Hunter is a web application that allows users to search for and learn about different superheroes. It provides detailed information and images for each superhero retrieved from an API. ',
         image: '/projects/1m.png',
         github: 'https://github.com/Mr-aj33t/SuperHero-Hunter.git',
-        demo: 'https://github.com/Mr-aj33t/SuperHero-Hunter.git'
+        demo: 'https://superhero-hunter-0d22.onrender.com/'
     },
     // Add more projects as needed
 ];
