@@ -119,9 +119,9 @@ const projectsData = [{
     {
         title: 'Dropdown Menu',
         description: 'a dropdown menu using React.js along with HTML, CSS, and JavaScript. The dropdown menu is a common UI component that allows users to choose one option from a list. ',
-        image: '/projects/dashboard.jpg',
+        image: '/projects/dp.jpg',
         github: 'https://github.com/Mr-aj33t/React-Dropdown-menu.git',
-        demo: 'https://todo-task-4q4m.onrender.com/'
+        demo: 'https://react-dropdown-menu.netlify.app/'
     },
 
     {
