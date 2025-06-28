@@ -252,7 +252,7 @@ const About = () => {
         /ContactInfo>
 
         <
-        ResumeButton href = "https://www.overleaf.com/project/6752b2c6b00f8943750cedbd"
+        ResumeButton href = "https://drive.google.com/file/d/1eN-Yyb8LibfFMwONNSVTztcSTfy3kyOc/view?usp=sharing"
         target = "_blank"
         rel = "noopener noreferrer"
         initial = {
