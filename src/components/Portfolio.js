@@ -94,6 +94,23 @@ const ProjectLink = styled.a `
 `;
 
 const projectsData = [{
+        title: 'Sports Buddy App',
+        description: 'Sports Buddy is a dynamic web application designed to connect sports enthusiasts. Whether you are looking for a casual game, a training partner, or exciting local sports events, Sports Buddy helps you discover, join, and organize sporting events effortlessly.',
+        image: '/projects/sportsbuddy.png',
+        github: 'https://github.com/Mr-aj33t/Sports_Buddy_App.git',
+        demo: 'https://sport-buddy-daee1.web.app/'
+
+    },
+                      {
+        title: 'Weather App',
+        description: 'This Weather App is a modern and responsive web application built using HTML, CSS, React.js, and enhanced with clean UX design principles. It provides real-time weather data, forecast, and UV index using third-party APIs like OpenWeatherMap and OpenUV.',
+        image: '/projects/weatherapp.png',
+        github: 'https://github.com/Mr-aj33t/Weather-App.git',
+        demo: 'https://weather-app-five-phi-17.vercel.app/'
+
+    },
+  
+  {
         title: 'E-commerce Platform',
         description: 'EverShop is a full-stack e-commerce platform built using React, Node.js, and MongoDB. It features secure authentication, product browsing, cart management, and Stripe-based payments. Designed with a responsive UI and admin dashboard for managing products, users, and orders.',
         image: '/projects/ecommerce.jpg',
