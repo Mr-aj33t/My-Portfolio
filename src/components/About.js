@@ -252,7 +252,7 @@ const About = () => {
         /ContactInfo>
 
         <
-        ResumeButton href = "https://drive.google.com/file/d/1f2ez0gkxMoeNeVCluWFOVimTDoWR92Hr/view?usp=sharing"
+        ResumeButton href = "https://drive.google.com/file/d/1dt_QhQcLN9LQ8M4OAzn1PZMGHQJgGL31/view?usp=sharing"
         target = "_blank"
         rel = "noopener noreferrer"
         initial = {
