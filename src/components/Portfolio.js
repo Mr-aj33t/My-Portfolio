@@ -94,6 +94,15 @@ const ProjectLink = styled.a `
 `;
 
 const projectsData = [{
+        title: 'Mini LinkedIn-like Community Platform',
+        description: 'A modern, responsive community platform built with React 19, Vite, and Firebase. Features include secure authentication, customizable profiles, real-time posts (create, like, delete), protected routes, and public profile views. Powered by Firestore for instant updates, Firebase Auth for session management, and styled with CSS3. Deployed on Firebase Hosting with a modular, scalable structure and robust security rules.',
+        image: '/projects/linkedin.png',
+        github: 'https://github.com/Mr-aj33t/Linkedin_Mini.git',
+        demo: 'https://linkedin-mini-d119d.web.app/'
+
+    },
+  
+  {
         title: 'Sports Buddy App',
         description: 'Sports Buddy is a dynamic web application designed to connect sports enthusiasts. Whether you are looking for a casual game, a training partner, or exciting local sports events, Sports Buddy helps you discover, join, and organize sporting events effortlessly.',
         image: '/projects/sportsbuddy.png',
